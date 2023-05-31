@@ -1,6 +1,8 @@
 import { BookModel } from '../models/Book'
 import { IBook } from '../types'
+import { injectable } from "inversify";
 
+@injectable()
 class BooksRepository {
     async createBook (book: IBook) {
         try {
