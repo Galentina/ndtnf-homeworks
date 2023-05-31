@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/.idea/task-2.5_docker-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/counter/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/data/counter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/api/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/helpers/createBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/library/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/middleware/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/middleware/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/models/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/routes/booksApiRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/routes/booksRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/routes/userApiRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/books/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/books/form.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/books/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/books/update.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/books/view.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/error/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/layout/end.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/layout/menu.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/views/layout/start.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.3_IoC_DI/library/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC_DI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1.3_IoC_DI/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1-2_ts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ndtnf-homeworks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/React-cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/Assets/React-cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/TS-cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/Assets/TS-cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/Library/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/BooksRepository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/helpers/BooksRepository.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/BookModel.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/models/BookModel.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/bookType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/src/types/bookType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_NodeJs_TypeSсript/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QZHrh7BMg5X5R1zuO45hr6HfkO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Gala_work/Back-end/ndtnf-homeworks/1.3_IoC_DI",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gala_work\Back-end\ndtnf-homeworks\1.3_IoC_DI" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="" />
+      <created>1685554383347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685554383347</updated>
+      <workItem from="1685554384420" duration="218000" />
+      <workItem from="1685556522329" duration="16000" />
+      <workItem from="1685556570149" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
