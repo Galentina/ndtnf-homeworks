@@ -25,7 +25,7 @@ booksRouter.get('/view/:id', async(req, res): Promise<void> => {
     const book = await repo.getBooks(id)
     await incCounter(id);
     const counter = await getCounter(id);
-    res.render('books/view', {title: 'Chosen book', book, counter})
+    res.render('books/view', {title: 'Chosen books', book, counter})
   } catch (e) {
     res.status(404)
     res.redirect('/404')
@@ -33,7 +33,7 @@ booksRouter.get('/view/:id', async(req, res): Promise<void> => {
 })
 
 booksRouter.get('/create', (_req, res): void => {
-  res.render('books/create', { title: 'Add book', book: {} })
+  res.render('books/create', { title: 'Add books', book: {} })
 })
 
 booksRouter.post('/create', fileMiddleware.single('file'), async(req, res): Promise<void> => {
@@ -57,7 +57,7 @@ booksRouter.get('/update/:id', async(req, res): Promise<void> => {
     const repo = container.get(BooksRepository)
     let book = await repo.getBooks(id)
     res.render('books/update', {
-      title: 'Edit book',
+      title: 'Edit books',
       book: book,
     })
   } catch {
