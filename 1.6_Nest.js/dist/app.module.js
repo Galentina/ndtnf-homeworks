@@ -10,18 +10,12 @@ exports.AppModule = void 0;
 const common_1 = require("@nestjs/common");
 const app_controller_1 = require("./app.controller");
 const app_service_1 = require("./app.service");
-const mongoose_1 = require("@nestjs/mongoose");
-const config_1 = require("@nestjs/config");
-const todo_module_1 = require("./todo/todo.module");
+const books_module_1 = require("./books/books.module");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
     (0, common_1.Module)({
-        imports: [
-            config_1.ConfigModule.forRoot(),
-            mongoose_1.MongooseModule.forRoot(process.env.MONGO_CONNECTION),
-            todo_module_1.TodoModule
-        ],
+        imports: [books_module_1.BooksModule],
         controllers: [app_controller_1.AppController],
         providers: [app_service_1.AppService],
     })
