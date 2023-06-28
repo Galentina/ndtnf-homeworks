@@ -4,88 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 1.6 task">
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.controller.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.controller.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/app.service.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.controller.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.controller.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/books.service.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/dto/create-books.dto.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/dto/create-books.dto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/dto/create-books.dto.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/interfaces/book.interface.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/interfaces/book.interface.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/books/interfaces/book.interface.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/main.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.6_Nest.js/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/.eslintrs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.controller.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.controller.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/app.service.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.controller.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.controller.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/books.service.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/dto/create-books.dto.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/dto/create-books.dto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/dto/create-books.dto.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/interfaces/book.interface.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/interfaces/book.interface.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/books/interfaces/book.interface.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/main.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/next-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/app.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/app.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/app.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/books.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/books.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/books.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/books.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/books.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/dto/create-books.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/books/interfaces/book.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/test/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/test/jest-e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.8_Nest.js-MongoDB/tsconfig.json" afterDir="false" />
+    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.4 task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/rxjs-ts-starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/webpack.dev.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,27 +55,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Gala_work/Back-end/ndtnf-homeworks/1.8_Nest.js-MongoDB",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\Gala_work\\Back-end\\ndtnf-homeworks\\1.6_Nest.js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Gala_work/Back-end/ndtnf-homeworks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Gala_work\\Back-end\\ndtnf-homeworks\\1.6_Nest.js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Gala_work\Back-end\ndtnf-homeworks\1.3_IoC_DI" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/2.4_RxJs-ts/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/1.6_Nest.js/package.json" />
       <command value="run" />
@@ -155,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -174,6 +119,8 @@
       <workItem from="1686775706598" duration="4408000" />
       <workItem from="1687085144259" duration="255000" />
       <workItem from="1687085628919" duration="76000" />
+      <workItem from="1687088132947" duration="1864000" />
+      <workItem from="1687971092690" duration="3682000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create 1.3 task">
       <created>1685568514030</created>
@@ -210,7 +157,42 @@
       <option name="project" value="LOCAL" />
       <updated>1686780119639</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: create 1.8 task">
+      <created>1687088199331</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687088199331</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: create 1.8 task">
+      <created>1687089212520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687089212520</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: create 1.8 task">
+      <created>1687089469899</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687089469899</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: create 2.4 task">
+      <created>1687974345721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687974345721</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: create 2.4 task">
+      <created>1687974435966</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687974435966</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +212,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: create 1.3 task" />
     <MESSAGE value="feat: create 1.6 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create 1.6 task" />
+    <MESSAGE value="feat: create 1.8 task" />
+    <MESSAGE value="feat: create 2.4 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create 2.4 task" />
   </component>
 </project>
