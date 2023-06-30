@@ -5,20 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.4 task">
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.eslintrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/next-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/create-books.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/loginDto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/registerDto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/interfaces/book.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/joiValidatorPipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/loggingInterceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/schemas/registerSchema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/validatorPipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/rxjs-ts-starter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/src/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_RxJs-ts/webpack.dev.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +56,12 @@
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="feat: create 1.6 task" />
-        <option name="rewordedMessage" value="feat: create 1.6 task" />
+        <option name="originalMessage" value="feat: create 2.4 task" />
+        <option name="rewordedMessage" value="feat: create 2.4 task" />
       </RewordedCommitMessageMapping>
     </option>
     <option name="currentCommit" value="1" />
-    <option name="onto" value="43b04ef74d7f4b4d7f4e136f4e8bbee0b2666981" />
+    <option name="onto" value="f70ef4452426fc95d9333ede304b985154e12d62" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -121,6 +137,9 @@
       <workItem from="1687085628919" duration="76000" />
       <workItem from="1687088132947" duration="1864000" />
       <workItem from="1687971092690" duration="3682000" />
+      <workItem from="1687974867982" duration="306000" />
+      <workItem from="1688119208327" duration="4796000" />
+      <workItem from="1688125180061" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create 1.3 task">
       <created>1685568514030</created>
@@ -192,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687974435966</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: create 2.4 task">
+      <created>1687974943123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687974943123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
