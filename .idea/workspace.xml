@@ -4,36 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.4 task">
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.eslintrs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/next-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/app.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/books.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/create-books.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/loginDto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/dto/registerDto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/books/interfaces/book.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/joiValidatorPipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/loggingInterceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/schemas/registerSchema.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/src/validatorPipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/test/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/test/jest-e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5_Validation-Interceptors-pipes/tsconfig.json" afterDir="false" />
+    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.5 task">
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.eslintrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/next-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/ormconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/jwtAuthGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/jwtStrategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/dailyGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/dto/create-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/dto/update-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/location.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/param-id.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/schemas/todo.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/schemas/user.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +149,8 @@
       <workItem from="1687971092690" duration="3682000" />
       <workItem from="1687974867982" duration="306000" />
       <workItem from="1688119208327" duration="4796000" />
-      <workItem from="1688125180061" duration="1431000" />
+      <workItem from="1688125180061" duration="1820000" />
+      <workItem from="1688298792620" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create 1.3 task">
       <created>1685568514030</created>
@@ -218,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687974943123</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: create 2.5 task">
+      <created>1688126746552</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688126746552</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +258,7 @@
     <MESSAGE value="feat: create 1.6 task" />
     <MESSAGE value="feat: create 1.8 task" />
     <MESSAGE value="feat: create 2.4 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create 2.4 task" />
+    <MESSAGE value="feat: create 2.5 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create 2.5 task" />
   </component>
 </project>
