@@ -4,46 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.5 task">
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.eslintrs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/next-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/ormconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/app.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authModule.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authService.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/authService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/constant.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/jwtAuthGuard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/auth/jwtStrategy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/dailyGuard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/dto/create-todo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/dto/update-todo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/location.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/interfaces/param-id.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/schemas/todo.schema.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/schemas/user.schema.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.controller.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/todo/todo.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersModule.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersService.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/src/users/usersService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/test/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/test/jest-e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards/tsconfig.json" afterDir="false" />
+    <list default="true" id="51a82634-3832-410c-add1-b5291dba56dc" name="Changes" comment="feat: create 2.6 task">
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/.eslintrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/next-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/ormconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/authModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/authService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/authService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/jwtAuthGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/auth/jwtStrategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/dailyGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/interfaces/dto/create-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/interfaces/dto/update-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/interfaces/location.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/interfaces/param-id.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/schemas/todo.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/schemas/user.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/todo.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/todo.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/todo.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/todo.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/todo/todo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/users/usersModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/users/usersService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/src/users/usersService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.6_Auth-Guards - Copy/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/.eslintrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/next-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/ormconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/authModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/authService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/authService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/jwtAuthGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/auth/jwtStrategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/books.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/books.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/books.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/books.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/books.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/dto/create-books.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/interfaces/book.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/books/schemas/book.schemas.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/dailyGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/interfaces/dto/create-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/interfaces/dto/update-todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/interfaces/location.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/interfaces/param-id.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/schemas/todo.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/schemas/user.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/todo.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/todo.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/todo.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/todo.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/todo/todo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/users/usersModule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/users/usersService.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/src/users/usersService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7_Jest/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,25 +127,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Gala_work/Back-end/ndtnf-homeworks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Gala_work\\Back-end\\ndtnf-homeworks\\1.6_Nest.js\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Gala_work/Back-end/ndtnf-homeworks/2.7_Jest/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\Gala_work\\Back-end\\ndtnf-homeworks\\1.6_Nest.js\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gala_work\Back-end\ndtnf-homeworks\2.7_Jest\src" />
       <recent name="D:\Gala_work\Back-end\ndtnf-homeworks\1.3_IoC_DI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gala_work\Back-end\ndtnf-homeworks\2.7_Jest\src\books" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start (1)">
@@ -150,7 +200,9 @@
       <workItem from="1687974867982" duration="306000" />
       <workItem from="1688119208327" duration="4796000" />
       <workItem from="1688125180061" duration="1820000" />
-      <workItem from="1688298792620" duration="5195000" />
+      <workItem from="1688298792620" duration="5788000" />
+      <workItem from="1688452653165" duration="799000" />
+      <workItem from="1688453989143" duration="7670000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create 1.3 task">
       <created>1685568514030</created>
@@ -236,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688126746552</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: create 2.6 task">
+      <created>1688304232971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688304232971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +318,7 @@
     <MESSAGE value="feat: create 1.8 task" />
     <MESSAGE value="feat: create 2.4 task" />
     <MESSAGE value="feat: create 2.5 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create 2.5 task" />
+    <MESSAGE value="feat: create 2.6 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create 2.6 task" />
   </component>
 </project>
